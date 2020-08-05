@@ -1,0 +1,148 @@
+* {
+    margin: 0px;;
+}
+body {
+    background-color: white;
+}
+header {
+    background-color: rgba(245, 245, 245, 0.575);
+    padding: 20px;
+}
+nav {}
+.nav-left {}
+.nav-left ul {
+    list-style: none;
+    padding-left: 0px;
+}
+.nav-left ul li {
+    display: inline-block;
+    font-size: 25px;
+    padding-left: 10px;
+}
+.nav-left ul li a {}
+.nav-left ul li a {}
+.nav-right {
+    float: right;
+    overflow: hidden;
+    display: flex;
+    margin-top: -31px;
+}
+.nav-right ul {
+    list-style: none;
+    padding-left: unset;
+    padding: 3px;
+    padding-right: 15px;
+}
+.nav-right ul li {
+    display: inline-block;
+    font-size: 25px;
+    padding-right: 15px;
+}
+.nav-right ul li a {}
+.google-apps {}
+.google-apps a {}
+.google-apps img {
+    border-radius: 50px;
+    min-width: 40px;
+    margin-right: 14px;
+}
+.notifications {}
+.notifications a {}
+.notifications img {
+    border-radius: 50px;
+    min-width: 38px;
+    background-color: darkgrey;
+    margin-right: 15px;
+}
+.profile {}
+.profile a {}
+.profile img {
+    border-radius: 50px;
+    min-width: 38px;
+    margin-right: 20px;
+}
+section {}
+.banner {}
+.banner a {
+    display: flex;
+    width: 400px;
+    text-align: center;
+    margin: 0px auto;
+}
+.banner img {
+    padding-top: 125px;
+    margin: 0 auto;
+}
+.search-bar {
+    margin: 0 auto;
+}
+.search-box {
+    display: block;
+    margin: 0 auto;
+    width: 540px;
+    height: 40px;
+    box-shadow: 4px 7px 12px 1px;
+	font-size: 20px;
+	padding-left: 20px;
+}
+.search1 {
+    display: block;
+    position: relative;
+    left: 463px;
+    top: 23px;
+    width: 205px;
+    font-size: 18px;
+}
+.search2 {
+    position: relative;
+    left: 680px;
+    top: -6.5px;
+    display: inline-block;
+    width: 205px;
+    font-size: 18px;
+}
+footer {
+    background-color: #F2F2F2;
+    margin-top: 195px;
+    overflow: hidden;
+}
+.footer-left {
+    float: left;
+    width: 315px;
+    margin-left: 20px;
+}
+.footer-left ul {
+    list-style: none;
+    text-align: left;
+    margin: 5px 0px;
+    padding-left: 0px;
+}
+.footer-left ul li {
+    display: inline-block;
+}
+.footer-left ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px 15px;
+    display: block;
+}
+.footer-right {
+    float: right;
+    width: 375px;
+    margin-right: 10px;
+}
+.footer-right ul {
+    list-style: none;
+    text-align: right;
+    margin: 5px 0px;
+    padding-left: 0px;
+}
+.footer-right ul li {
+    display: inline-block;
+}
+.footer-right ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    padding: 5px 15px;
+    display: block;
+}
